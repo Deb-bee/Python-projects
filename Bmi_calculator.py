@@ -1,5 +1,5 @@
 # Enter your height in meters e.g., 1.55
-height = float(input())
+height = float(input("What is your height? "))
 # Enter your weight in kilograms e.g., 72
 weight = int(input("What is your weight? "))
 # 🚨 Don't change the code above 👆
